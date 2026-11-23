@@ -1,0 +1,10 @@
+/node_modules
+/download
+/upload
+*.DS_Store
+
+# 환경 설정 파일
+.env.local
+.env.prod
+.env.dev
+
